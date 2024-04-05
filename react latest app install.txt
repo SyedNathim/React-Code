@@ -1,0 +1,22 @@
+react latest app install
+
+1) npm create vite@latest ./
+2) select (-> react <-)
+3) javascript 
+
+4) npm install
+5)npm run dev (npm start onother cmd this)
+6) npm install react-router-dom localforage match-sorter sort-by
+
+setup file link (react router search)
+
+7) bootstrap install in react (https://getbootstrap.com/)
+
+8) react countup install (https://www.npmjs.com/package/react-countup) npm i react-countup
+
+9) swiper js for style sliders (https://swiperjs.com/get-started) $ npm install swiper
+
+10) popperjs for tolip and modal box (https://www.npmjs.com/package/@popperjs/core) npm i @popperjs/core
+
+
+
